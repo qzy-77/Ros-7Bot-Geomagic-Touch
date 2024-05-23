@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: mybot_description
+    relative_path: urdf/arm_new.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arm.srdf
+  CONFIG:
+    author_name: qiqi
+    author_email: 1148712898@qq.com
+    generated_timestamp: 1683793848
