@@ -9,5 +9,5 @@
 4、mybot_serial_port：将ros规划的角度通过Serial传输到Arduino板；  
 5、mybot_serial_port：movite规划后需要包含的server，来订阅规划角度，以及更新tf；  
 6、mybot_toch：Geomagic Touch自带的ros通讯等；  
-**Paper：**  
+**Support：**  
 讲述了系统整体设计的过程。  
